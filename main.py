@@ -1,3 +1,9 @@
+## ------------------------------------------------------------------------------------------------------------------------- ##
+##                                                                                                                           ##
+## WARNING MAKE SURE TO DOWNLOAD THE 3 FFMPEG FILES FROM https://ffmpeg.org/ AND PLACE THEM IN THE SAME DIRECTORY AS main.py ##
+##                                                                                                                           ##
+## ------------------------------------------------------------------------------------------------------------------------- ##
+
 from pydub import AudioSegment
 
 prevData = [0, '', 0]
